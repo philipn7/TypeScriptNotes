@@ -1,7 +1,7 @@
 # Types
 ## Type -  Easy way to refer to the different properties & functions that a value has.
 
-Every value in typescript has a type. `interface` is used to define new type.
+Every value in typescript has a type.
 
 * Primitive types: string, number, symbol, boolean, void, null, undefined
 * Object types: functions, classes, arrays, objects ( The reason it's separated is because Object types can be manipulated into think it's another type. Why? Explained later in the course...)
