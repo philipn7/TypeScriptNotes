@@ -35,3 +35,13 @@ class Vehicle {
     }
 }
 ```
+
+## Export Classes
+`export` keyword before an object to allow it to be used in a different file.
+
+To import use `import { thing1, thing2 } from './Class';`
+Individual objects are imported from Class.
+
+`default` keyword sets the default export objects and is imported using `import things from './Class';`. This is more typical of how React imports.
+
+In typescript, the convention is to use `export`

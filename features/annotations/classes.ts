@@ -19,7 +19,6 @@ class Car extends Vehicle {
     drive(): void {
         console.log('vroom');
     }
-
 }
 
 const vehicle = new Vehicle('red');

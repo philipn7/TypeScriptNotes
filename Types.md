@@ -8,6 +8,8 @@ Every value in typescript has a type.
 
 Plain JavaScript is dynamically typed. Using types helps with error checking before compilation and helps others better understand the code.
 
+Objects can have multiple types. Example, object 'hondaCivic' can be created from the class 'Car' and fulfill the interface 'Drivable'. Typescript does an 'implicit check' to see that the interface definition is met.
+
 ## How do we define what type a value is?
 ### Type annotations
 ```
