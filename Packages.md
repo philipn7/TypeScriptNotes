@@ -9,3 +9,7 @@ In VS Code, hold ctrl and click on the object to bring up its typescript definit
 > "This is like half the power of typescript right here reading these different types and using some little hints inside of here to understand how these libraries work."
 
 * Collapse methods to make the file easier to read. Bring up the palette (ctrl+shift+P) and type 'fold level 2'
+
+## NodeJS
+Node has standard library modules which needs a TypeScript definition file: 
+`npm install @types/node`

@@ -64,3 +64,8 @@ const throwError = (message: string): never => {
     // this is a corner case, typically we do TRY to return something.
 }
 ```
+
+## Type Assertion
+`row[5] as MatchResult`
+
+Tells TypeScript to override type to our choosing. In this example a string is overridden as enum type called MatchResult.
