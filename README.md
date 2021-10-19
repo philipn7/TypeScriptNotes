@@ -7,3 +7,4 @@ Sections:
 * [Interfaces](Interfaces.md)
 * [Classes](Classes.md)
 * [Packages](Packages.md)
+* [Generics](Generics.md)
